@@ -1,7 +1,7 @@
-3724
+3736
 102C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\runtime-browser-hmr133948972993153902 1
 88C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\src\styles\_variables.scss133949203404122648 0
-74C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\package.json133948993115517056 0
+74C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\package.json133949275956173627 0
 85C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\is-extglob133948972977963137 1
 94C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\sharp\lib\resize.js133948993033205812 0
 118C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\compressor-raw\lib\RawCompressor.js133948972992882580 0
@@ -12,7 +12,7 @@
 108C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\reporter-cli\src\emoji.js133948972996733686 0
 136C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133948972995221563 0
 109C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\type-fest\ts41\delimiter-case.d.ts133948972980303528 0
-66C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist133949273098641880 1
+66C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist133951912292528823 1
 103C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@swc\helpers\esm\_extends.js133948973008263894 0
 88C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\color\LICENSE133948993029320982 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\node-gyp-build-optional-packages\index.js133948972983557743 0
@@ -50,6 +50,7 @@
 92C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@msgpackr-extract133948993115274185 1
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\features\eventsource.js133948973018308267 0
 106C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\lightningcss\node\index.js.flow133948972984229374 0
+87C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\backend.de40e702.png133949276054389150 0
 106C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\regions\SR.js133948973032593370 0
 131C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing133948973015299824 1
 114C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\transformer-babel\src\config.js133948972993307663 0
@@ -68,7 +69,7 @@
 122C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@swc\helpers\cjs\_skip_first_generator_next.cjs133948972999898564 0
 95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\sharp\src\metadata.h133948993031172622 0
 95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@swc\core\spack.d.ts133948972984676583 0
-84C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\src\styles\_event.scss133949220695315347 0
+84C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\src\styles\_event.scss133951912003771670 0
 106C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\regions\PH.js133948973030561178 0
 105C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\sass\types\value\function.d.ts133948993113195359 0
 108C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@swc\helpers\_\index\package.json133948973018883883 0
@@ -106,6 +107,7 @@
 107C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\update-browserslist-db\README.md133948972979236314 0
 106C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\regions\SE.js133948973032047544 0
 107C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\term-size\vendor\macos\term-size133948972981393603 0
+89C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\ebac_logo.cec57e6d.svg133949276054389150 0
 110C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\utils\src\getModuleParts.js133948972999008199 0
 95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\electron-to-chromium133948972986726456 1
 120C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\features\css-reflections.js133948973013729674 0
@@ -1010,6 +1012,7 @@
 98C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\semver\functions\neq.js133948972991962783 0
 98C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\msgpackr\test-worker.js133948972993003611 0
 100C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\semver\functions\patch.js133948972993153902 0
+88C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\frontend.6a770e7f.png133949276053977479 0
 105C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\semver\functions\prerelease.js133948972993738075 0
 98C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\react-refresh\README.md133948972980461038 0
 95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\msgpackr\index.d.cts133948972986909718 0
@@ -1213,6 +1216,7 @@
 100C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\core\src\types.js133948973013475765 0
 127C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@swc\helpers\_\_class_private_field_get\package.json133948973013640584 0
 124C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\ordered-binary\.nyc_output\processinfo\index.json133948972979700579 0
+96C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\landing_page.77ff39e2.css.map133951912292528823 0
 132C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js133948972998314375 0
 93C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\nullthrows\LICENSE133948972987931643 0
 106C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\regions\VN.js133948973035301345 0
@@ -2180,6 +2184,7 @@
 127C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133948973007535369 0
 121C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\features\cookie-store-api.js133948973007592811 0
 126C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\features\dom-manip-convenience.js133948973016968743 0
+85C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\ui-ux.957396b7.png133949276056427145 0
 122C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\features\createimagebitmap.js133948973007921492 0
 108C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\workers\src\childState.js133948972986645443 0
 123C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\caniuse-lite\data\features\permissions-policy.js133948973030298276 0
@@ -2596,6 +2601,7 @@
 98C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\browserslist\index.d.ts133948972989143640 0
 100C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\core\src\requests133948973014244849 1
 95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\browserslist\LICENSE133948972985941341 0
+96C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\landing_page.2ba2baa8.css.map133949276056529373 0
 100C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\browserslist\package.json133948972987650578 0
 102C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\events\src\types.js133948972999646280 0
 97C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\browserslist\README.md133948972988312972 0
@@ -3012,10 +3018,11 @@
 105C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\cache\src\LMDBCache.js133948972989143640 0
 94C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@swc\core\README.md133948972981930028 0
 93C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@swc\core\spack.js133948972985008751 0
+92C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\landing_page.2ba2baa8.css133949276056442287 0
 97C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@swc\core\Visitor.d.ts133948972982122397 0
 95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@swc\core\Visitor.js133948972983061550 0
 98C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\bundler-default133948972999215783 1
-77C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\index.html133949250842007781 0
+77C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\index.html133951912292528823 0
 88C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\cache133948972990884343 1
 93C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\diagnostic133948972996733686 1
 96C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\error-overlay133948972986270334 1
@@ -3235,7 +3242,7 @@
 107C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\transformer-sass\LICENSE133948993109843665 0
 103C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\transformer-sass\src133948993110576203 1
 113C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\transformer-sass\lib\modern.js133948993110422923 0
-82C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\styles\main.css133949228913641854 0
+82C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\styles\main.css133951912702510393 0
 117C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\transformer-react-refresh-wrap\lib133948972989934510 1
 123C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\core\test\requests\ConfigRequest.test.js133948973005181569 0
 121C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133948972987931643 0
@@ -3528,6 +3535,7 @@
 108C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\core\test\fixtures\parcel133948973016060794 1
 103C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\events\lib\errors.js133948972998973358 0
 104C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\error-overlay\LICENSE133948972978811481 0
+95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\landing_page.311e7e4b.js.map133949276056529373 0
 109C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\error-overlay\package.json133948972986312220 0
 111C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\error-overlay\src\components133948972983318294 1
 111C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\@parcel\error-overlay\src\containers133948972984554450 1
@@ -3717,9 +3725,13 @@
 88C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\.bin\sass.ps1133948993115080955 0
 90C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\.bin\semver.ps1133948973037381124 0
 106C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\node_modules\.bin\update-browserslist-db.cmd133948973037464643 0
+84C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\data.a7891935.png133949276054034806 0
 84C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\data.b5acb70a.png133949228912807955 0
+85C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\fundo.d0fbeb82.png133949276056427145 0
+91C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\landing_page.311e7e4b.js133949276056427145 0
 91C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\landing_page.59712999.js133949228912807955 0
+92C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\landing_page.77ff39e2.css133951912292528823 0
 95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\landing_page.f75de5e1.js.map133949273098612066 0
-73C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\styles133949228913708406 1
-86C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\styles\main.css.map133949228913708406 0
+73C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\styles133951912702560075 1
+86C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\styles\main.css.map133951912702560075 0
 86C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page\dist\scripts\main.js.map133949273098582363 0

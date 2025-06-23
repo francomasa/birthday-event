@@ -4,6 +4,15 @@
     padding: 80px 0;
 
     &--frontend {
+        //Chrome, Safari, versões mais recentes do Opera
+        background-image: webkit-linear-gradient(variables.$gradien1, variables.$gradien2);
+        //Firefox
+        background-image: -moz-linear-gradient(variables.$gradien1, variables.$gradien2);
+        //Versões antigas do Opera
+        background-image: -o-linear-gradient(variables.$gradien1, variables.$gradien2);
+        //Internet Explorer e Edge 
+        background-image: -ms-linear-gradient(variables.$gradien1, variables.$gradien2);
+        //Navegadores atualizados
         background-image: linear-gradient(variables.$gradien1, variables.$gradien2);
     }
 
