@@ -37,6 +37,8 @@
     
     @media(max-width: 640px) {
         padding: 40px 0;
+        background-size: contain;
+        background-repeat: repeat;
 
         &__logo {
             height: 40px;
@@ -47,6 +49,10 @@
             line-height: 24px;
             margin: 24px 0;
         }
+    }
+    @media (max-width: 1024px) {
+        background-size: contain;
+        background-repeat: repeat;
     }
 
 }
