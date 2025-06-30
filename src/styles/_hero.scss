@@ -1,9 +1,9 @@
 @use 'variables';
 
 .hero {
-    padding-top: 64px;
+    padding-top: 94px;
     padding-bottom: 100px;
-    background-image: url(../images/fundo.png);
+    background-image: url(../images/fundo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -12,22 +12,14 @@
         position: relative;
     }
 
-    &::before {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-color: variables.$textColorSecundary;
-        opacity: .7;
-        content: '';
-    }
+
     &__text {
-        margin: 64px 0;
+        margin: 100px 100px;
         line-height: 56px;
         font-size: 40px;
         font-weight: 800;
         text-align: center;
+        letter-spacing: 4px;
     }
 
     &__logo {

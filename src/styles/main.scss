@@ -2,7 +2,6 @@
 @use 'hero';
 @use 'components/infos_bar';
 @use 'components/buttons';
-@use 'event';
 
 * {
     margin: 0;
@@ -11,6 +10,10 @@
     font-family: Roboto, sans-serif;
     color: variables.$textColor;
     list-style: none;
+}
+
+body {
+    background-color: variables.$textColorSecundary;
 }
 
 .container {
