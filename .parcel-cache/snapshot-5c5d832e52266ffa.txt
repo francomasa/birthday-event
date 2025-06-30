@@ -1,4 +1,4 @@
-3831
+3834
 118C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\reporter-cli\src\emoji.js133957694842975591 0
 94C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\sharp\src133957694454887075 1
 119C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\type-fest\ts41\delimiter-case.d.ts133957694453830031 0
@@ -10,7 +10,7 @@
 104C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\color-name\index.js133957694449853594 0
 113C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\.bin\download-lmdb-prebuilds133957694469482907 0
 95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\is-extglob133957694450928628 1
-76C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist133957719086881775 1
+76C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist133957731384142784 1
 128C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\compressor-raw\lib\RawCompressor.js133957694846391742 0
 117C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@swc\helpers\scripts\ast_grep.js133957694460119345 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\source-map-js\lib\quick-sort.js133957694452551869 0
@@ -52,7 +52,7 @@
 127C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\features\css-any-link.js133957694459026379 0
 150C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\LICENSE133957694449497275 0
 127C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@swc\helpers\cjs\_ts_dispose_resources.cjs133957694457977659 0
-82C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\src\images133957717150358819 1
+82C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\src\images133957723748559507 1
 134C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\package-manager\src\promiseFromProcess.js133957694844409419 0
 113C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\semver\ranges\min-version.js133957694455804716 0
 106C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@swc\helpers\_\_throw133957694462375866 1
@@ -107,7 +107,7 @@
 118C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\postcss-value-parser\package.json133957694452534637 0
 104C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\detect-libc\LICENSE133957694451188215 0
 114C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\chrome-trace-event\CHANGES.md133957694450661820 0
-93C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\src\styles\_hero.scss133957715443416392 0
+93C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\src\styles\_hero.scss133957731081988570 0
 105C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\postcss-value-parser133957694452750978 1
 107C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\is-number\package.json133957694449214718 0
 105C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@swc\helpers\scripts133957694460176084 1
@@ -146,7 +146,7 @@
 122C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\type-fest\source\set-return-type.d.ts133957694456314589 0
 105C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\sharp\lib\libvips.js133957694455804716 0
 125C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\utils\src\generateCertificate.js133957703073005504 0
-92C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\src\images\fundo.jpg133957706324182338 0
+92C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\src\images\fundo.jpg133957720621278403 0
 121C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\features\beacon.js133957694457402718 0
 125C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\features\websockets.js133957694468789562 0
 101C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\semver\functions133957694456790094 1
@@ -178,7 +178,7 @@
 125C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\features\decorators.js133957694461779017 0
 135C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\features\wasm-mutable-globals.js133957694468537644 0
 118C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\postcss-value-parser\lib\index.js133957694449995471 0
-95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\fundo.e4da96d5.jpg133957714731484771 0
+95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\fundo.e4da96d5.jpg133957720774897377 0
 152C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\package.json133957694845171372 0
 112C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\type-fest\source\basic.d.ts133957694452653497 0
 89C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@swc133957703077377359 1
@@ -542,7 +542,7 @@
 104C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\type-fest\base.d.ts133957694452300848 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\utils\src\DefaultMap.js133957703072848086 0
 105C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\type-fest\index.d.ts133957694454887075 0
-84C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\scripts133957714731798558 1
+84C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\scripts133957731204868157 1
 121C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\workers\lib\web\WebWorker.js133957703073694601 0
 131C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\electron-to-chromium\full-chromium-versions.js133957694450766013 0
 102C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\type-fest\license133957694449214718 0
@@ -841,7 +841,7 @@
 117C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\source-map-js\lib\source-node.js133957694453789667 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\regions\MV.js133957694465622384 0
 110C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\source-map-js\lib\util.js133957694454027179 0
-111C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.59712999.js133957714731760741 0
+111C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.59712999.js133957731204717886 0
 126C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@swc\helpers\cjs\_non_iterable_spread.cjs133957694457402718 0
 98C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\sharp\install133957694455130452 1
 130C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\features\element-closest.js133957694462375866 0
@@ -1442,7 +1442,7 @@
 93C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\lmdb\bin133957694459063423 1
 102C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\lmdb\dependencies133957694458888815 1
 94C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\lmdb\dist133957694459281206 1
-111C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.f75de5e1.js133957714731185242 0
+111C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.f75de5e1.js133957720775514751 0
 100C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\lmdb\index.d.ts133957694459438355 0
 98C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\lmdb\index.js133957694459083448 0
 132C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@swc\helpers\cjs\_class_private_method_init.cjs133957694456093177 0
@@ -2036,7 +2036,7 @@
 99C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\fs\lib133957694845577997 1
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\regions\PL.js133957694466367502 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\regions\PM.js133957694466367502 0
-87C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\index.html133957719086265054 0
+87C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\index.html133957731384142784 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\regions\PN.js133957694466367502 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\regions\PT.js133957694466524482 0
 107C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\fs\src\find.js133957694844449412 0
@@ -2048,7 +2048,7 @@
 120C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\workers\lib\web\WebChild.js133957703073539446 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\regions\SB.js133957694466874511 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\regions\SC.js133957694466874511 0
-96C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\scripts\main.js.map133957714731787216 0
+96C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\scripts\main.js.map133957731204850238 0
 129C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\watcher\src\macos\FSEventsBackend.hh133957694456024050 0
 139C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\features\mdn-text-decoration-line.js133957694465327035 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\caniuse-lite\data\regions\SD.js133957694466992879 0
@@ -3284,6 +3284,7 @@
 122C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\transformer-node\package.json133957694841307959 0
 132C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\transformer-node\lib\NodeTransformer.js133957694841287946 0
 117C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\transformer-json\LICENSE133957694842226188 0
+95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\fundo.0789e4f3.jpg133957731384142784 0
 122C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\transformer-json\node_modules133957694833318816 1
 130C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\transformer-json\node_modules\@parcel133957703105245934 1
 120C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\transformer-js\node_modules133957694833318816 1
@@ -3430,7 +3431,7 @@
 117C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\resolver-default\LICENSE133957694842176202 0
 122C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\resolver-default\node_modules133957694833230108 1
 130C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\resolver-default\node_modules\@parcel133957703105173200 1
-115C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.59712999.js.map133957714731787216 0
+115C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.59712999.js.map133957731204850238 0
 127C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\.bin\node-gyp-build-optional-packages-test133957694469482907 0
 107C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\codeframe\test133957703072975294 1
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\reporter-tracer\LICENSE133957694842955578 0
@@ -3463,7 +3464,7 @@
 105C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@lmdb\lmdb-win32-x64133957694455446262 1
 114C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\profiler\lib\Trace.js133957703072689262 0
 115C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\profiler\lib\Tracer.js133957703072730131 0
-96C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\styles\main.css.map133957715444569542 0
+96C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\styles\main.css.map133957731204850238 0
 112C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\plugin\package.json133957703072601234 0
 103C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\plugin\src133957703072619246 1
 118C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\node_modules\@parcel\plugin\src\PluginAPI.d.ts133957703072639297 0
@@ -3825,8 +3826,10 @@
 95C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\fundo.7967d5db.jpg133957719086265054 0
 101C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\fundo.e4da96d5.jpg.412.w133957707407745453 0
 116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.1a2ea99b.css.map133957719086750547 0
+112C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.714d1904.css133957731384142784 0
+116C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.714d1904.css.map133957731384142784 0
 112C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.f6451546.css133957716824126440 0
-115C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.f75de5e1.js.map133957714731288577 0
-83C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\styles133957715444569542 1
-92C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\styles\main.css133957715444479692 0
-92C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\scripts\main.js133957714731760741 0
+115C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\landing_page_exercicio.f75de5e1.js.map133957720775514751 0
+83C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\styles133957731204860217 1
+92C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\styles\main.css133957731204691301 0
+92C:\Users\francomasa\Projetos\curso_ebac_frontend\landing_page_exercicio\dist\scripts\main.js133957731204717886 0
